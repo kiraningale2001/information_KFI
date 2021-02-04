@@ -97,7 +97,8 @@ ul li {
     border-bottom: 2px solid black;
     margin:10px;
 }
-@media(max-width:500px){
+
+/*@media(max-width:500px){
     body .backgroundbox{
         width:70vh;
        
@@ -130,3 +131,4 @@ ul li {
 
     }
 }
+*/
