@@ -57,7 +57,7 @@ body{
         position:0px;
     }
    .box{
-       width:270px;
+       width:250px;
        height:540px;
        margin:1px;
        padding: 8px;
@@ -68,8 +68,8 @@ body{
    .box input{
    
     
-    margin:8px;
-    font-size:7px;
+    margin:10px;
+    font-size:15px;
     }
    
        
