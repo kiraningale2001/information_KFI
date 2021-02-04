@@ -100,7 +100,7 @@ ul li {
 @media(max-width:500px){
     body .backgroundbox{
         width:70vh;
-        height:50vh;
+       
         zoom: 50px;
         backgroung-position:center;
 
